@@ -9,8 +9,7 @@ import org.openqa.selenium.WebElement;
 import org.openqa.selenium.chrome.ChromeDriver;
 
 public class TotalLinks {
-	.
-	
+
 	//total links
 	//fetch the text of each link (if text is present)
 	//check link is valid/not broken

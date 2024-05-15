@@ -1,0 +1,12 @@
+
+¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ı–ÁÒÿÿÿÿÿ8“â‹Å÷1J$f1e30078-696f-409c-87c7-425b869c2ad5
+r	java:S106"+Replace this use of System.out by a logger.(»Ï§ùÿÿÿÿ8«â‹Å÷1J$dd86764e-684f-4ea8-a4ef-f22209783cba
+
+java:S1128"MRemove this unused import 'org.openqa.selenium.support.ui.ExpectedCondition'.(Ü¥ö’8ÂâµÅ÷1J$75974925-7f87-4fe4-ab1a-2b7a2b0736d9
+–
+java:S1128"NRemove this unused import 'org.openqa.selenium.support.ui.ExpectedConditions'.(û€Èéúÿÿÿÿ8ÃâµÅ÷1J$13c646e0-f09d-4d91-8d02-914abc92c63f
+Œ
+java:S1128"IRemove this unused import 'org.openqa.selenium.support.ui.WebDriverWait'.(¥÷ó8ÃâµÅ÷1J$e0476a8b-58af-4466-ba52-fbfb0e3d962a
+w
+java:S1128
+"/Remove this unused import 'java.time.Duration'.(ëá¯‰üÿÿÿÿ8ÃâµÅ÷1J$b88c353b-b446-4797-b98b-c594e83c4754
