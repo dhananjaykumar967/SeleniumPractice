@@ -11,6 +11,9 @@ import java.time.Duration;
 import java.util.List;
 
 public class SimpleContextMenu {
+
+
+
     static WebDriver driver;
 
     public static void main(String[] args) throws InterruptedException {

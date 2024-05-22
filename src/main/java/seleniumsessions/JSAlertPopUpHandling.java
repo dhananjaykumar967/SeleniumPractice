@@ -17,6 +17,7 @@ public class JSAlertPopUpHandling {
 		
 		WebDriver driver = new ChromeDriver();
 		driver.get("https://the-internet.herokuapp.com/javascript_alerts");
+		driver.navigate().to("https://the-internet.herokuapp.com/javascript_alerts");
 		
 		//driver.switchTo().alert();//NoAlertPresentException: no such alert
 		
